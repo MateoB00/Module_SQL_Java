@@ -1,0 +1,5 @@
+2024-11-19 11:39:08|5|statement|connection 1|url jdbc:postgresql://localhost:9999/module_sql|select * from information_schema.sequences|select * from information_schema.sequences
+2024-11-19 11:39:08|0|statement|connection 1|url jdbc:postgresql://localhost:9999/module_sql|select * from "public"."projet" where 1=0|select * from "public"."projet" where 1=0
+2024-11-19 11:39:08|0|statement|connection 1|url jdbc:postgresql://localhost:9999/module_sql|select * from "public"."users" where 1=0|select * from "public"."users" where 1=0
+2024-11-19 11:39:08|0|statement|connection 1|url jdbc:postgresql://localhost:9999/module_sql|select * from "public"."projet" where 1=0|select * from "public"."projet" where 1=0
+2024-11-19 11:39:08|0|statement|connection 1|url jdbc:postgresql://localhost:9999/module_sql|select * from "public"."users" where 1=0|select * from "public"."users" where 1=0
